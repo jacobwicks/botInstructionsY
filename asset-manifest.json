@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/jacobwicks.github.io/botInstructionsY/static/css/main.f0baed30.chunk.css",
-    "main.js": "/jacobwicks.github.io/botInstructionsY/static/js/main.87f8e223.chunk.js",
-    "main.js.map": "/jacobwicks.github.io/botInstructionsY/static/js/main.87f8e223.chunk.js.map",
+    "main.js": "/jacobwicks.github.io/botInstructionsY/static/js/main.2fc502d4.chunk.js",
+    "main.js.map": "/jacobwicks.github.io/botInstructionsY/static/js/main.2fc502d4.chunk.js.map",
     "runtime-main.js": "/jacobwicks.github.io/botInstructionsY/static/js/runtime-main.947ea6f9.js",
     "runtime-main.js.map": "/jacobwicks.github.io/botInstructionsY/static/js/runtime-main.947ea6f9.js.map",
     "static/js/2.2952a1d5.chunk.js": "/jacobwicks.github.io/botInstructionsY/static/js/2.2952a1d5.chunk.js",
     "static/js/2.2952a1d5.chunk.js.map": "/jacobwicks.github.io/botInstructionsY/static/js/2.2952a1d5.chunk.js.map",
     "index.html": "/jacobwicks.github.io/botInstructionsY/index.html",
-    "precache-manifest.efea28b6fe56b7c7b1c55903a1adaa79.js": "/jacobwicks.github.io/botInstructionsY/precache-manifest.efea28b6fe56b7c7b1c55903a1adaa79.js",
+    "precache-manifest.424b393adaaca01a9eccd406672157bb.js": "/jacobwicks.github.io/botInstructionsY/precache-manifest.424b393adaaca01a9eccd406672157bb.js",
     "service-worker.js": "/jacobwicks.github.io/botInstructionsY/service-worker.js",
     "static/css/main.f0baed30.chunk.css.map": "/jacobwicks.github.io/botInstructionsY/static/css/main.f0baed30.chunk.css.map",
     "static/js/2.2952a1d5.chunk.js.LICENSE.txt": "/jacobwicks.github.io/botInstructionsY/static/js/2.2952a1d5.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.947ea6f9.js",
     "static/js/2.2952a1d5.chunk.js",
     "static/css/main.f0baed30.chunk.css",
-    "static/js/main.87f8e223.chunk.js"
+    "static/js/main.2fc502d4.chunk.js"
   ]
 }

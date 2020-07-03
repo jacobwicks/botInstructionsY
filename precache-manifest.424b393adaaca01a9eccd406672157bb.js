@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ea5cfaea4434649187eaebee8f7a322",
+    "revision": "7b6c8d0bc9ec74180cf66372a905ba5f",
     "url": "/jacobwicks.github.io/botInstructionsY/index.html"
   },
   {
-    "revision": "a010c44b46e3ab7c58d2",
+    "revision": "0d195caa6dd8307729f1",
     "url": "/jacobwicks.github.io/botInstructionsY/static/css/main.f0baed30.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jacobwicks.github.io/botInstructionsY/static/js/2.2952a1d5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a010c44b46e3ab7c58d2",
-    "url": "/jacobwicks.github.io/botInstructionsY/static/js/main.87f8e223.chunk.js"
+    "revision": "0d195caa6dd8307729f1",
+    "url": "/jacobwicks.github.io/botInstructionsY/static/js/main.2fc502d4.chunk.js"
   },
   {
     "revision": "d284760a88f095dba168",
